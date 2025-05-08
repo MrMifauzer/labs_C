@@ -1,0 +1,6 @@
+[2025-05-08 22:16:40] Created monsters for the game
+[2025-05-08 22:16:40] Game initialized
+[2025-05-08 22:16:40] Game started
+[2025-05-08 22:16:43] Battle started with Goblin
+[2025-05-08 22:16:47] Player successfully ran away
+[2025-05-08 22:16:48] Player quit the game
